@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE Crypto SYSTEM "wallet.dtd">
+<?xml-stylesheet type="text/xsl" href="Rules.xsl" ?>
+<Trader>
+
+<currency>
+<cname> Abhinav </cname>
+<price> Art</price>
+<token> CME </token>
+<total> II </total>
+</currency>
+
+<currency>
+<cname> Adarsh </cname>
+<price> Audi </price>
+<token> CME </token>
+<total> III </total>
+</currency>
+
+</Trader>
